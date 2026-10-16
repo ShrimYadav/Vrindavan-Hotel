@@ -1,0 +1,6 @@
+{
+  "name": "The Vrindavan Hotel & Palace, Indore",
+  "description": "Indore's premier Taj-inspired luxury heritage palace hotel featuring royal suites, Chhat rooftop dining, Mayura spa, and royal Malwa hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
